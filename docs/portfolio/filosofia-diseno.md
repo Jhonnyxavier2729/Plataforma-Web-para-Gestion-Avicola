@@ -1,13 +1,9 @@
-# Calibre Solar
+# Portada de EggQuality
 
-**Un movimiento visual donde la luz se mide como se mide la materia: con paciencia, con escala y con una regla que nunca miente.**
+La portada sale del mundo del avicultor, no de una plantilla de software.
 
-El campo de partida es una oscuridad cálida, casi negra, con el fondo tibio de la tierra al anochecer. No es vacío: es un lugar de observación, como la mesa de un laboratorio con la luz apagada a la espera de la muestra. Sobre él se extiende una retícula de puntos finísimos que solo se percibe al acercarse. No decora, mide. Cada margen y cada alineación nacen de ella, y quien mira con atención nota que nada está colocado al azar: la composición es el resultado de un trabajo meticuloso, de cientos de ajustes pequeños hasta que todo deja de moverse.
-
-La luz es el único gesto expresivo, y es luz de yema. Un haz dorado que se enciende en naranja cruza el campo en diagonal; otro, pálido como la clara, lo atraviesa en sentido contrario y se apaga en terracota. Donde se cruzan nace un destello blanco y breve. Sus bordes son siempre suaves, difuminados con la paciencia de quien pinta niebla. La paleta se limita a ese acorde cálido sobre el negro. Con tan poco, cada tono tiene que estar calibrado con precisión de maestro; cualquier color de más rompería el silencio.
-
-El objeto central se presenta como un espécimen: una ventana luminosa que flota sobre el campo, con sombra larga, honesta, y un filo de luz de un píxel. Se documenta como una lámina científica: numerada, acotada con marcas de registro en las esquinas, tratada con la reverencia que se reserva a la prueba de un fenómeno. Junto a ella, una segunda lámina más pequeña ordena formas idénticas en tamaños crecientes, cada una escalada con rigor matemático y no a ojo, como una serie de medidas tomadas una a una. La escala manda: el espécimen ocupa el territorio principal y todo lo demás retrocede para dejarlo respirar.
-
-La tipografía es escasa y deliberada. Un nombre de gran peso, compacto, partido en dos líneas como una forma más que como una palabra; una frase breve en tono humano con un acento cursivo; después, solo etiquetas clínicas en monoespaciada (índices, normas, coordenadas) colocadas con la sobriedad de un atlas. Nunca hay párrafos. La información vive en la posición, en el ritmo de los índices y en el aire entre una línea y la siguiente. Cada letra está puesta como si la hubiera colocado a mano alguien en la cima de su oficio.
-
-El equilibrio es asimétrico pero en calma: una columna estrecha de texto ancla la izquierda y un gran campo de imagen ocupa la derecha, unidos por las diagonales de luz que atraviesan ambos. El resultado tiene que sentirse acabado, pulido hasta el último píxel, producto de una atención paciente y de una ejecución experta: una pieza que podría colgarse en una galería y que, a la vez, se lee en un instante.
+- **El panal es la imagen.** Un panal de 30 huevos visto desde arriba, grande y saliéndose del borde, como en una foto de producto. También cuenta lo que hace la app: los huevos son panales activos, los cupos vacíos son lo vendido (se sacan desde una esquina, como en la tienda) y los que llevan la fecha impresa en rojo están por vencer.
+- **Color plano y del producto.** Fondo amarillo yema, tinta negra pura como el contorno del logo, cartón de pulpa gris y huevos rojos, que son los más vendidos en Colombia. Sin degradados decorativos ni brillos.
+- **Letra con carácter de cartel.** Boldonse para el titular, Work Sans para el resto y una letra de puntos solo para la fecha del huevo, como la que imprimen las granjas.
+- **Texto en frases normales.** Nada de etiquetas en mayúsculas, numeraciones o separadores; el titular dice lo que gana el usuario: «Cada panal, a la vista».
+- **La app de verdad.** La captura del panel de estadísticas acompaña al panal para que se vea el producto real.
