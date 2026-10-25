@@ -1,5 +1,7 @@
 # 🥚 EggQualite: Sistema Web de Gestión y Análisis de Huevos
 
+![EggQuality: gestión avícola con inventario de panales, precios del DANE y reportes](docs/portfolio/eggquality-portada-1920.png)
+
 ## ¡Bienvenido a EggQualite! 🚀
 
 EggQualitë es una aplicación web diseñada para revolucionar la gestión integral de panales de huevos y el análisis del comportamiento de precios del huevo en el mercado mayorista-consumidor a nivel nacional en Colombia. Nuestro objetivo es proporcionar a pequeños y medianos avicultores una herramienta robusta e intuitiva para digitalizar sus procesos de control de inventario y optimizar la toma de decisiones, reemplazando métodos manuales por una plataforma eficiente e intuitiva.
